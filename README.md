@@ -2,12 +2,11 @@
 <h1 align="center">I'm Bahram Muzaffarli</h1>
 <h3 align="center">A passionate Data Scientist/Data Analytst from Azerbaijan</h3>
 
+<!--current streak/ total contributions-->
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=bahrammuzaffarli&theme=dark" alt="bahrammuzaffarli" /></p>
+
 <!--GitHub Stats -->
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=bahrammuzaffarli&show_icons=true&locale=en" alt="bahrammuzaffarli" /></p>
-
-<!--current streak/ total contributions-->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bahrammuzaffarli&theme=dark" alt="bahrammuzaffarli" /></p>
-
 <!--Most Used Languages -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahrammuzaffarli&show_icons=true&locale=en&layout=compact" alt="bahrammuzaffarli" /></p>
 
