@@ -23,11 +23,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahrammuzaffarli&theme=dark&hide_border=true" />
 </p>
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bahrammuzaffarli&layout=compact&theme=dark&hide_border=true" />
 </p>
+-->
 
 ### 👁️ Profile Views
 
