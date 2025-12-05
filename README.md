@@ -55,7 +55,6 @@
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
   <img src="https://img.icons8.com/color/48/tableau-software.png" width="40"/>
   <img src="https://www.r-project.org/logo/Rlogo.png" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/SAS_logo.svg" width="40"/>
   <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" width="40"/>
   <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40"/>
   <img src="https://img.icons8.com/color/48/brain.png" width="40"/>
