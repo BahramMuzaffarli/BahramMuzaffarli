@@ -1,4 +1,3 @@
-# Bahram Muzaffarli
 
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://www.linkedin.com/in/behram-muzefferli-83874b1b1/)
 
@@ -10,9 +9,9 @@
 ### 🌐 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/behram-muzefferli-83874b1b1/"><img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="40"/></a>
-  <a href="https://facebook.com"><img src="https://img.icons8.com/ios-filled/50/1877F2/facebook-new.png" width="40"/></a>
-  <a href="https://instagram.com"><img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="40"/></a>
+  <a href="https://www.linkedin.com/in/bahram-muzaffarli-83874b1b1/"><img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" width="40"/></a>
+  <a href="https://www.facebook.com/Bhrmmuz/"><img src="https://img.icons8.com/ios-filled/50/1877F2/facebook-new.png" width="40"/></a>
+  <a href="https://www.instagram.com/bhrmmuz/"><img src="https://img.icons8.com/ios-filled/50/E4405F/instagram-new.png" width="40"/></a>
 </p>
 
 ---
@@ -54,5 +53,10 @@
   <img src="https://img.icons8.com/color/48/sql.png" width="40"/>
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/git.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/r-project.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/sas.png" width="40"/>
+  <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/brain.png" width="40"/>
 </p>
