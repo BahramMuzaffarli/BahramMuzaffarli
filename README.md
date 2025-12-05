@@ -47,7 +47,6 @@
 ---
 
 ### 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://img.icons8.com/color/48/python.png" width="40"/>
   <img src="https://img.icons8.com/color/48/sql.png" width="40"/>
