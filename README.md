@@ -49,7 +49,8 @@
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.icons8.com/color/48/python.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/sql.png" width="40"/>
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="40"/>
   <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
   <img src="https://img.icons8.com/color/48/tableau-software.png" width="40"/>
